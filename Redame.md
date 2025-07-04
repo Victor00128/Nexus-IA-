@@ -1,6 +1,6 @@
 # ProyectoV2
 
-Hey This is my second attempt at building a web project (hence the "V2" in the name Jjjj, but it's actually called Nexus I). I'm still learning but pretty happy with how this turned out.
+Hey This is my second attempt at building a web project (hence the "V2" in the name Jjjj, but it's actually called Nexus IA). I'm still learning but pretty happy with how this turned out.
 
 ## What is this?
 
