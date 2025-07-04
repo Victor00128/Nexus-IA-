@@ -68,6 +68,5 @@ If something's broken, feel free to open an issue. I can't promise I'll fix it q
 
 Shoutout to Stack Overflow for basically teaching me React, and to my rubber duck for listening to all my debugging sessions.
 
----
+I hope you like my project V
 
-*Made with coffee and determination* ☕
