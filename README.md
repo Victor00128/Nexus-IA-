@@ -40,7 +40,7 @@ Then go to localhost:3000 or whatever port it tells you.
 
 ## Live version
 
-You can check it out here: https://vercel.com/julios-projects-58cdd9a8/v0-proyecto-v2
+You can check it out here: https://the-nexus-ia.netlify.app/
 
 Fair warning - I'm still tweaking things so it might look different by the time you visit.
 
