@@ -1,72 +1,42 @@
-# ProyectoV2
+# Nexus IA 🤖
 
-Hey This is my second attempt at building a web project (hence the "V2" in the name Jjjj, but it's actually called Nexus IA). I'm still learning but pretty happy with how this turned out.
+Un asistente de chat inteligente construido con Next.js y la API de Gemini. Este proyecto permite mantener conversaciones fluidas, guardar el historial y gestionar diferentes sesiones de chat.
 
-## What is this?
+[![Desplegado en Netlify](https://img.shields.io/badge/Desplegado%20en-Netlify-00C7B7?style=for-the-badge&logo=netlify)](https://the-nexus-ia.netlify.app)
 
-Honestly, I started this project to practice React and see if I could build something that actually looks decent. It's a simple web app but I tried to make it look professional. Still has some rough edges but I'm working on it!
+## ✨ Características Principales
 
-## Tech stuff I used
+- **Chat Interactivo:** Conversaciones en tiempo real con la IA de Gemini.
+- **Historial de Chats:** Guarda y revisa tus conversaciones anteriores.
+- **Gestión de Sesiones:** Inicia, carga, elimina y exporta tus chats fácilmente.
+- **Interfaz Moderna:** Diseño limpio y responsivo, enfocado en la experiencia de usuario.
 
-- React (still getting the hang of hooks)
-- CSS with some Tailwind thrown in
-- Deployed on Vercel because it's free and easy
-- Probably too many console.log statements that I forgot to remove 😅
+## 🛠️ Tecnologías Utilizadas
 
-## How to run it
+- **Framework:** Next.js
+- **Lenguaje:** TypeScript
+- **Estilos:** Tailwind CSS
+- **API de IA:** Google Gemini
+- **Despliegue:** Netlify
 
-If you want to mess around with this:
+## 🚀 Cómo ejecutarlo localmente
 
-```bash
-# Clone it
-git clone [your-repo-url]
+Si quieres probar el proyecto en tu propia máquina, sigue estos pasos:
 
-# Install stuff (this might take a while)
-npm install
+1.  **Clona el repositorio:**
+    ```bash
+    git clone https://github.com/Victor00128/Nexus-IA.git
+    ```
 
-# Run it
-npm start
-```
+2.  **Instala las dependencias:**
+    (Asegúrate de tener pnpm instalado)
+    ```bash
+    pnpm install
+    ```
 
-Then go to localhost:3000 or whatever port it tells you.
+3.  **Ejecuta el proyecto:**
+    ```bash
+    pnpm dev
+    ```
 
-## Current status
-
-✅ Basic functionality works  
-✅ Doesn't crash (most of the time)  
-✅ Looks okay on mobile  
-⚠️ Could use better error handling  
-❌ Tests? What tests? (I know, I know...)  
-
-## Live version
-
-You can check it out here: https://the-nexus-ia.netlify.app/
-
-Fair warning - I'm still tweaking things so it might look different by the time you visit.
-
-## What I learned
-
-- React state management is tricky but powerful
-- CSS Grid > Flexbox (fight me)
-- Vercel deployments are actually magic
-- I should probably learn TypeScript next
-- Documentation is important (writing this README was harder than the actual code)
-
-## TODO
-
-- [ ] Add proper error handling
-- [ ] Write some tests (eventually...)
-- [ ] Clean up the CSS mess
-- [ ] Maybe add a dark mode?
-- [ ] Figure out why the mobile nav is weird sometimes
-
-## Issues?
-
-If something's broken, feel free to open an issue. I can't promise I'll fix it quickly but I'll definitely take a look!
-
-## Thanks
-
-Shoutout to Stack Overflow for basically teaching me React, and to my rubber duck for listening to all my debugging sessions.
-
-I hope you like my project V
-
+Abre [http://localhost:3000](http://localhost:3000) en tu navegador para ver la aplicación.
